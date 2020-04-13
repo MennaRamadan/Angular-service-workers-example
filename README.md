@@ -34,5 +34,5 @@ ng add @angular/pwa this will make my angular app configure working with service
 run ng build --prod as it will create file that refrenced in app.module,
 npm install -g http-server to install a host for my app as node based appliaction must run inside dist folder, 
 Static data will run in offline mode,
-
+Modification occured in ngsw-config.json file
 
